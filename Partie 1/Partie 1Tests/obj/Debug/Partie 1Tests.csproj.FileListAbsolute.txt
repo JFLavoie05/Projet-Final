@@ -1,0 +1,24 @@
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\fr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\Partie 1Tests.dll
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\Partie 1Tests.pdb
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\Partie 1.exe
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\Partie 1.pdb
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\Partie 1.exe.config
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\obj\Debug\Partie 1Tests.csproj.AssemblyReference.cache
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\obj\Debug\Partie 1Tests.csproj.CoreCompileInputs.cache
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\obj\Debug\Partie 1Tests.csproj.CopyComplete
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\obj\Debug\Partie 1Tests.dll
+C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1Tests\obj\Debug\Partie 1Tests.pdb

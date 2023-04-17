@@ -10,6 +10,14 @@ namespace Partie_1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Entrez votre premier nombre");
+            Int32.TryParse(Console.ReadLine(), out int nb1);
+            Console.WriteLine("Entrez votre deuxieme nombre");
+            Int32.TryParse(Console.ReadLine(), out int nb2);
+
+            Calculatrice calculatrice = new Calculatrice();
+
+            Console.WriteLine(calculatrice.Exposant(nb1, nb2));
         }
     }
 }
