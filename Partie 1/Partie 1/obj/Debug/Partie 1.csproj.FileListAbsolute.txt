@@ -6,3 +6,14 @@ C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1\obj\Debug\Partie 1.csp
 C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1\obj\Debug\Partie 1.csproj.CoreCompileInputs.cache
 C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1\obj\Debug\Partie 1.exe
 C:\Code\Prog2\Projet Final\Projet-Final\Partie 1\Partie 1\obj\Debug\Partie 1.pdb
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Partie 1\bin\Debug\Partie 1.exe.config
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Partie 1\bin\Debug\Partie 1.exe
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Partie 1\bin\Debug\Partie 1.pdb
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Partie 1\obj\Debug\Partie 1.csproj.AssemblyReference.cache
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Partie 1\obj\Debug\Partie 1.csproj.SuggestedBindingRedirects.cache
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Partie 1\obj\Debug\Partie 1.csproj.CoreCompileInputs.cache
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Partie 1\obj\Debug\Partie 1.exe
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Partie 1\obj\Debug\Partie 1.pdb
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Partie 1\bin\Debug\Bibliotheque.dll
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Partie 1\bin\Debug\Bibliotheque.pdb
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Partie 1\obj\Debug\Partie 1.csproj.CopyComplete

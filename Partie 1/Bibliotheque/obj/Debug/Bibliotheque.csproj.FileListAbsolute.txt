@@ -1,0 +1,6 @@
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Bibliotheque\bin\Debug\Bibliotheque.dll
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Bibliotheque\bin\Debug\Bibliotheque.pdb
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Bibliotheque\obj\Debug\Bibliotheque.csproj.AssemblyReference.cache
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Bibliotheque\obj\Debug\Bibliotheque.csproj.CoreCompileInputs.cache
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Bibliotheque\obj\Debug\Bibliotheque.dll
+M:\Documents\Code\POO\Projet commun\Projet-Final\Partie 1\Bibliotheque\obj\Debug\Bibliotheque.pdb
